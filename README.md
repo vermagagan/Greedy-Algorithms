@@ -1,23 +1,23 @@
-# Greedy Algorithms Practice Repository
+# Binary Trees Practice Repository
 
-Welcome to the Greedy Algorithms Practice Repository! Here, you'll find a collection of greedy algorithm questions that I've practiced to enhance my understanding and proficiency in using greedy techniques.
+Welcome to the Binary Trees Practice Repository! Here, you'll discover a curated collection of binary tree problems aimed at sharpening your skills in working with binary trees.
 
-## About Greedy Algorithms
+## About Binary Trees
 
-Greedy algorithms are a class of algorithms that build up a solution piece by piece, always choosing the next piece that offers the most immediate benefit. Greedy algorithms are often used for optimization problems where they can provide near-optimal or optimal solutions.
+Binary trees are hierarchical data structures composed of nodes, where each node has at most two children, referred to as the left child and the right child. Binary trees are fundamental in computer science and are used in various algorithms and data structures.
 
 ## Contributions
 
-Contributions are welcome! If you've solved a greedy algorithm problem that's not included here, feel free to submit a pull request with your solution implementation along with test cases.
+Contributions are highly encouraged! If you've tackled a binary tree problem that's not listed here, don't hesitate to submit a pull request with your solution implementation along with relevant test cases. Together, we can build a comprehensive resource for mastering binary trees.
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to open an issue in the repository. I'll do my best to address it promptly.
+Encountered any difficulties or have questions? Feel free to open an issue in the repository. I'm committed to assisting you promptly and ensuring your learning journey with binary trees is smooth.
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository operates under the MIT License. Refer to the [LICENSE](LICENSE) file for further details.
 
 ---
 
-Happy coding with Greedy Algorithms! 🚀
+Dive into the realm of Binary Trees and unlock the secrets of efficient algorithms! Happy coding! 🌳
